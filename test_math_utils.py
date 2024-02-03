@@ -1,4 +1,3 @@
-import pytest
 from math_utils import MathUtils
 
 def test_add():
