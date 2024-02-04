@@ -1,3 +1,3 @@
-# pytest but in jenkins
+# pytest
 
-python test + jenkins assignment
+python test + jenkins assignment using build triggers
